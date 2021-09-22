@@ -46,6 +46,8 @@ We tested four models on our data:
 3. SVM
 4. Random Forests
 
+Our first model appeared to return the greatest accuracy, with an R^2 value of ~0.93.
+
 ## 5. Conclusion
   
 Ultimately, we were able to achieve a number of tasks:
