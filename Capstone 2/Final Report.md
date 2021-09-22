@@ -28,13 +28,23 @@ Variables:
 
 [Code](https://github.com/harmoly/Springboard/blob/main/Capstone%202/Capstone%202%20-%20EDA%20(3).ipynb)
 
+Here, we explore trends pertaining to salary, employment status, and demographics (in that order) for each major category through a variety of visualizations.
+
 ## 3. Training and Preprocessing
 
 [Code](https://github.com/harmoly/Springboard/blob/main/Capstone%202/Capstone%202%20-%20Preprocessing%20and%20Training%20Data%20Development%20(1).ipynb)
 
+Our data contains two categorical variables--majors and major categories, so we convert these to numerical data, and scale using StandardScaler.
+
 ## 4. Modeling
 
 [Code](https://github.com/harmoly/Springboard/blob/main/Capstone%202/Capstone%202%20-%20Modeling%20(1).ipynb)
+
+We tested four models on our data:
+1. Linear Regression
+2. KNN
+3. SVM
+4. Random Forests
 
 ## 5. Conclusion
   
